@@ -3,8 +3,10 @@
   
 ![portofolio](https://www.abc.net.au/news/image/8811354-3x2-940x627.png)
 ## Actualmente trabajo con las siguientes tecnologias: 
-<p>React • Redux • JavaScript •  Material UI •  Stylesd Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean</p>
+<p>React • Redux • JavaScript •  Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean</p>
+
 <div diplay="flex">
+  
 <img width="8%" alt="React" src="https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png" />
 <img width="8%" alt="Redux" src="https://user-images.githubusercontent.com/82492849/127186837-dd9080f1-f335-4c9e-a330-041332a4905a.png" />
 <img width="8%" alt="JavaScript" src="https://user-images.githubusercontent.com/82492849/127186839-fded5ee4-3581-419d-aeab-9b4883453980.png" />
