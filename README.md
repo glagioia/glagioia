@@ -14,6 +14,11 @@
 <img width="7%" alt="postgreSQL" src="https://user-images.githubusercontent.com/82492849/127188901-1886ca46-c80f-4d3f-8f94-48c57f94369d.png" />
 <img width="13%" alt="Node Express" src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" />
 <img width="8%" alt="Sequelize" src="https://user-images.githubusercontent.com/82492849/127190950-c9023b24-1d27-4502-9c39-b84915a667ae.png" />
+<img width="8%" alt="MongoDB" src="https://quizizz.com/media/resource/gs/quizizz-media/questions/e300d82e-2498-43da-a4a4-d250faa7d251?w=90&h=90" />
+<img width="8%" alt="Firebase" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png" />  
+<img width="8%" alt="Firebase" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
+<img width="8%" alt="Firebase" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" />
+
 </div>
   
 ## Puedes encontrarme en :mag::
