@@ -3,7 +3,7 @@
   
 ![portofolio](https://www.abc.net.au/news/image/8811354-3x2-940x627.png)
 ## Actualmente trabajo con las siguientes tecnologias: 
-<p>React • Redux • JavaScript •  Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean</p>
+<p>React • Redux • JavaScript •  Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean • Next.js • Tailwindcss • Styled-components • Next/auth • Auth0 </p>
 
 <div diplay="flex">
   
@@ -18,9 +18,14 @@
 <img width="8%" alt="Sequelize" src="https://user-images.githubusercontent.com/82492849/127190950-c9023b24-1d27-4502-9c39-b84915a667ae.png" />
 <img width="8%" alt="MongoDB" src="https://quizizz.com/media/resource/gs/quizizz-media/questions/e300d82e-2498-43da-a4a4-d250faa7d251?w=90&h=90" />
 <img width="8%" alt="Firebase" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png" />  
-<img width="8%" alt="Firebase" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
-<img width="8%" alt="Firebase" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" />
-
+<img width="8%" alt="heroku" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
+<img width="8%" alt="digital ocean" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" />
+<img width="8%" alt="next js" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
+<img width="8%" alt="tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
+<img width="8%" alt="styled" src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" />
+<img width="8%" alt="styled" src="https://next-auth.js.org/img/logo/logo-sm.png" />  
+<img width="8%" alt="styled" src="https://avatars.githubusercontent.com/u/2824157?s=280&v=4" />    
+  
 </div>
   
 ## Puedes encontrarme en :mag::
