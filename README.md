@@ -1,5 +1,5 @@
 ### Hola, me llamo Gonzalo :wave:
-  Soy un programador Web FullStack, apasionado de la tecnologia y en continuo aprendizaje.
+  Soy un programador Web FullStack, actualmente trabajando como fron-end engineer para Vitau.
   
 ![portofolio](https://www.abc.net.au/news/image/8811354-3x2-940x627.png)
 ## Actualmente trabajo con las siguientes tecnologias: 
