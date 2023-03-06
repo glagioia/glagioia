@@ -1,7 +1,6 @@
 ### Hola, me llamo Gonzalo :wave:
   Soy un programador Web FullStack, actualmente trabajando como fron-end engineer para Vitau.
   
-![portofolio](https://www.abc.net.au/news/image/8811354-3x2-940x627.png)
 ## Actualmente trabajo con las siguientes tecnologias: 
 <p>React • Redux • JavaScript •  Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean • Next.js • Tailwindcss • Styled-components • Next/auth • Auth0 </p>
 
