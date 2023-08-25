@@ -1,5 +1,15 @@
 ### Hola, me llamo Gonzalo :wave:
   Soy un programador Web FullStack, actualmente trabajando como fron-end engineer para Vitau.
+  Mis principales tareas en este puesto son:
+
+  -Diseñar, desarrollar y mantener features para los servicios web de la empresa utilizando React, Typescript, y otras tecnologías relevantes.
+  -Revisar código de otros miembros del equipo de front y hacer deploy en ambiente de pruebas y a producción
+  -Colaborar con otros miembros del equipo de desarrollo, como diseñadores y desarrolladores back-end, para implementar soluciones innovadoras y escalables.
+  -Investigar nuevas tecnologías y herramientas para mejorar la eficiencia y la calidad del desarrollo de software, y compartir los conocimientos adquiridos con el equipo.
+  -Realizar testing para detectar y solucionar errores, y asegurar la estabilidad y el rendimiento de la aplicación.
+  -Mantenerse al día con las últimas tendencias en desarrollo web, como patrones de diseño, arquitecturas y metodologías ágiles, y aplicarlas en el trabajo diario.
+  -Atender canales de soporte para solucionar problemas y bugs que se presenten en la aplicación web.
+  -Capacitaciones a los distintos equipos sobre las nuevas actualizaciones y features.
   
 ## Actualmente trabajo con las siguientes tecnologias: 
 <p>React • Redux • JavaScript •  Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize • MongoDB • Firebase • Heroku • Digital Ocean • Next.js • Tailwindcss • Styled-components • Next/auth • Auth0 </p>
