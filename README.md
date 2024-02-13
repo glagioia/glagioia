@@ -1,5 +1,5 @@
 ### Hola, me llamo Gonzalo :wave:
-  Soy un programador Web FullStack, actualmente trabajando como fron-end engineer para Vitau.
+  Soy un programador Web FullStack, actualmente trabajando como front-end engineer para Vitau.
   Mis principales tareas en este puesto son:
 
   -Diseñar, desarrollar y mantener features para los servicios web de la empresa utilizando React, Typescript, y otras tecnologías relevantes.
