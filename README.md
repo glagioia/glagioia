@@ -25,15 +25,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=glagioia&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=synthwave&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glagioia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=glagioia&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h5 align="left">Tecnologias:</h5>
+<h3 align="left">Tecnologias:</h3>
 
 ###
 
@@ -44,7 +36,7 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="15" />
-  <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}"  height="25" alt="React Native logo"  />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25" alt="React Native logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
   <img width="15" />
@@ -115,7 +107,7 @@
 
 ###
 
-<h5 align="left">Puedes encontrarme en:</h5>
+<h3 align="left">Puedes encontrarme en:</h3>
 
 ###
 
@@ -127,7 +119,7 @@
 
 ###
 
-<h5 align="left">O contactarme por correo:</h5>
+<h3 align="left">O contactarme por correo:</h3>
 
 ###
 
