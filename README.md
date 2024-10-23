@@ -17,11 +17,11 @@
 
 ###
 
-<h5 align="left">Actualmente me encuentro trabajando como front-end engineer para Vitau.<br>  Mis principales tareas en este puesto son:</h5>
+<h5 align="left">Actualmente me encuentro trabajando como front-end engineer para SalesForce<br>  Mis principales tareas en este puesto son:</h5>
 
 ###
 
-<p align="left">-Diseñar, desarrollar y mantener features para los servicios web de la empresa utilizando React, Typescript, y otras tecnologías relevantes. <br>  -Revisar código de otros miembros del equipo de front y hacer deploy en ambiente de pruebas y a producción. <br>  -Colaborar con otros miembros del equipo de desarrollo, como diseñadores y desarrolladores back-end, para implementar soluciones innovadoras y escalables. <br>  -Investigar nuevas tecnologías y herramientas para mejorar la eficiencia y la calidad del desarrollo de software, y compartir los conocimientos adquiridos con el equipo. <br>  -Realizar testing para detectar y solucionar errores, y asegurar la estabilidad y el rendimiento de la aplicación. <br>  -Mantenerse al día con las últimas tendencias en desarrollo web, como patrones de diseño, arquitecturas y metodologías ágiles, y aplicarlas en el trabajo diario. <br>  -Atender canales de soporte para solucionar problemas y bugs que se presenten en la aplicación web.<br>  -Capacitaciones a los distintos equipos sobre las nuevas actualizaciones y features.</p>
+<p align="left">-Diseñar, desarrollar y mantener features para los servicios web de la empresa utilizando React, Typescript, y otras tecnologías relevantes. <br>  -Revisar código de otros miembros del equipo de front y hacer deploy en ambiente de pruebas y a producción. <br>  -Colaborar con otros miembros del equipo de desarrollo, como diseñadores y desarrolladores back-end, para implementar soluciones innovadoras y escalables. <br>  -Investigar nuevas tecnologías y herramientas para mejorar la eficiencia y la calidad del desarrollo de software, y compartir los conocimientos adquiridos con el equipo. <br>  -Realizar testing para detectar y solucionar errores, y asegurar la estabilidad y el rendimiento de la aplicación. <br>  -Mantenerse al día con las últimas tendencias en desarrollo web, como patrones de diseño, arquitecturas y metodologías ágiles, y aplicarlas en el trabajo diario. <br>  -Atender canales de soporte para solucionar problemas y bugs que se presenten en la aplicación web.<br> </p>
 
 ###
 
